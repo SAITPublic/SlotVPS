@@ -20,7 +20,7 @@ Follow the [instructions](https://github.com/mcahny/vps#dataset) to prepare City
 
 
 ## Testing
-Run the following commands to test the model on Cityscapes-VPS.
+Run the following commands to test the model on Cityscapes-VPS. Note that now the pth files are unavailable. We are trying to find ways to upload large files.
 
 * Slot-VPS model for Video Panoptic Quality (VPQ) on Cityscapes-VPS `val` set (`vpq-λ.txt` will be saved.)
 ```
