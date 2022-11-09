@@ -1,0 +1,10 @@
+mmcv==0.2.14
+numpy
+matplotlib
+six
+terminaltables
+pycocotools
+imagecorruptions
+easydict
+einops
+timm
